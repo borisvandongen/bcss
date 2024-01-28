@@ -1,0 +1,21 @@
+Title: Characteristics of Persuasion Algorithms
+
+In this lecture, we discussed several additional characteristics of persuasion algorithms beyond those we've previously covered. Here is a summary of the key points:
+
+1. **Strategic Dialogue-Based Algorithms**: Some algorithms are designed to facilitate entire strategic dialogues with the aim to persuade, not just single attempts or messages.
+
+2. **Impact of Repeated Actions**: Algorithms may also take into account the diminishing or increasing effectiveness of repeated persuasive actions. The repeated delivery of the same persuasive message can either lead to increased processing and persuasion or result in annoyance and decreased effectiveness.
+
+3. **Variability**: In order to maintain engagement and prevent boredom or annoyance, some persuasion algorithms introduce variability in the types of persuasive messages that are delivered. Consistent use of the same type of persuasion can lead people to disengage or stop using an application altogether.
+
+4. **Exploration vs. Exploitation**: This concept, commonly associated with reinforcement learning, involves a decision between using the most effective known persuasion technique (exploitation) and trying new approaches to possibly uncover even more effective techniques (exploration).
+
+5. **Confidence in Predictions**: Algorithms may factor in the certainty of their predictions when determining the effectiveness of different persuasive methods. A single data point may not provide a reliable indication of effectiveness, suggesting that more data or consideration is needed.
+
+This session highlighted the complexity and considerations involved in designing algorithms that effectively persuade users while adapting to various contexts and responses. These features aim to optimize the impact of persuasion algorithms responsibly and efficiently.
+
+Please review these points carefully, as understanding the nuances of persuasive technologies is crucial for deploying them ethically and effectively. We will delve deeper into these concepts in our future classes.
+
+## Transcript
+
+Welcome to this next and now rather short video, in which we will describe further characteristics that persuasion algorithms may have. So we have already seen that some algorithms may consider future states, they may be forward or backward directed, and they may have positive or negative feedback. In addition to that, some algorithms are for entire strategic dialogues that are meant to persuade people, rather than just single persuasive attempts or messages. There are also algorithms that account for the impact of repeated actions. So if I send the same persuasion type the third time in a row, probably has a different effect than the first time, it could be more effective because people had more time to process it, but it could also be less effective because people are annoyed or bored. Tied to this is also the idea of ensuring variability. So for example, if you have an algorithm that learns the most optimal persuasion type, then if at some point you now always send the same persuasion type, there is no longer any variability, which may again bore people or annoy them, or people may stop using your application. So some algorithms try to ensure that there's always at least some level of variability. The notion of exploration and exploitation is probably something you've seen in the context of reinforcement learning. The idea is, well, do you always just send what you think or know your most effective persuasion type is? Or do you also try other things to maybe find something that is even more effective? There will be exploration. And lastly, there are some approaches that account for how sure you are about your predictions of the effectiveness of different algorithm persuasion types. So for example, if you only have a single sample for one persuasion type, then maybe it's unlikely that this is the actual right value for the effectiveness of this persuasion type. So this already concludes this very short video on further characteristics that persuasion algorithms can have. See you in the next one.
